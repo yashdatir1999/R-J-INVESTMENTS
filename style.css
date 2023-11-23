@@ -91,9 +91,8 @@ html,body{
     width: 25%;
     position: absolute;
     right: 3%;
-    transform: translateY(27vmax);
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: right;
+    transform: translateY(25vmax);
+    font-family: cursive;
     font-weight: 700;
 }
 .page3{
@@ -216,7 +215,7 @@ html,body{
 }
 .footer2-content{
     height: 25vh;
-    width: 70%;
+    width: 100%;
     background-color: black;
     display: flex;
 }
@@ -225,7 +224,7 @@ html,body{
     width: 50%;
     /* background-color: orange; */
     display: flex;
-    align-items: start;
+    align-items: center;
     justify-content: center;
     gap: 1vmax;
     font-family: sans-serif;
